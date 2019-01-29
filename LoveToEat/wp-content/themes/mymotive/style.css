@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Mój motyw
+ Description:  Moj motyw jest piekny
+ Author:       Michał Kaczmarek
+ Template:     twentytwelve
+ Version:      1.0.0
+ 
+*/
+
+@import url('../twentytwelve/style.css');
+
+.main-navigation li a:hover {
+	display: block;
+	background-color: #000;
+	color: #fff;
+}
